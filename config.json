@@ -1,0 +1,25 @@
+{
+  "email_settings": {
+    "smtp_server": "",
+    "smtp_port": 587,
+    "username": "",
+    "password": "",
+    "from_email": ""
+  },
+  "reporting_settings": {
+    "enable_auto_unsubscribe": true,
+    "enable_authority_reporting": true,
+    "enable_company_reporting": true,
+    "enable_whois_lookup": true,
+    "max_unsubscribe_attempts": 3,
+    "request_timeout": 10
+  },
+  "additional_company_contacts": {
+    "sample_company": "abuse@example.com"
+  },
+  "custom_unsubscribe_patterns": [
+    "stop receiving",
+    "email preferences",
+    "subscription settings"
+  ]
+}

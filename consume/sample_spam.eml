@@ -1,0 +1,27 @@
+From: "Marketing Team" <noreply@spammer-example.com>
+To: user@example.com
+Subject: Exclusive Offer - Act Now!
+Date: Thu, 29 Aug 2025 10:00:00 -0700
+Message-ID: <spam123@spammer-example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+List-Unsubscribe: <https://spammer-example.com/unsubscribe?id=123456>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exclusive Offer</title>
+</head>
+<body>
+    <h1>Don't Miss This Amazing Deal!</h1>
+    <p>Limited time offer just for you!</p>
+    
+    <p>Buy now and save 90% on amazing products!</p>
+    
+    <p>Click here to claim your discount now!</p>
+    
+    <p><small>Don't want these emails? <a href="https://spammer-example.com/unsubscribe?id=123456">Unsubscribe here</a></small></p>
+    
+    <p><small>This email was sent by: Sketchy Marketing LLC, 123 Fake Street, Nowhere, XX 00000</small></p>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "total_emails_processed": 1,
+  "processing_date": "2025-08-29T13:57:20.610866",
+  "domains_encountered": [
+    "spammer-example.com"
+  ],
+  "companies_identified": [],
+  "total_unsubscribe_attempts": 2,
+  "successful_unsubscribes": 0
+}

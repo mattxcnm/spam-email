@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+dnspython
+whois
+tldextract
+python-whois
+email-validator

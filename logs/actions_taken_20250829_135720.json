@@ -1,0 +1,42 @@
+{
+  "file_path": "consume/sample_spam.eml",
+  "unsubscribe_attempts": [
+    {
+      "link": "https://spammer-example.com/unsubscribe?id=123456",
+      "error": "HTTPSConnectionPool(host='spammer-example.com', port=443): Max retries exceeded with url: /unsubscribe?id=123456 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x102c73fd0>: Failed to resolve 'spammer-example.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "success": false,
+      "timestamp": "2025-08-29T13:57:20.198661"
+    },
+    {
+      "link": "https://spammer-example.com/unsubscribe?id=123456",
+      "error": "HTTPSConnectionPool(host='spammer-example.com', port=443): Max retries exceeded with url: /unsubscribe?id=123456 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x102c89cd0>: Failed to resolve 'spammer-example.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "success": false,
+      "timestamp": "2025-08-29T13:57:20.200905"
+    }
+  ],
+  "authority_reports": [
+    {
+      "authority": "FTC",
+      "method": "Online Form",
+      "url": "https://reportfraud.ftc.gov/",
+      "status": "Manual submission required",
+      "timestamp": "2025-08-29T13:57:20.606967"
+    },
+    {
+      "authority": "IC3",
+      "method": "Online Form",
+      "url": "https://www.ic3.gov/Home/FileComplaint",
+      "status": "Manual submission required",
+      "timestamp": "2025-08-29T13:57:20.606972"
+    },
+    {
+      "authority": "APWG",
+      "method": "Email",
+      "email": "reportphishing@apwg.org",
+      "status": "Ready for email submission",
+      "timestamp": "2025-08-29T13:57:20.606976"
+    }
+  ],
+  "company_reports": [],
+  "processing_timestamp": "2025-08-29T13:57:20.607021"
+}
